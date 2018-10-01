@@ -8,12 +8,15 @@ lecture-06 <img src="https://slu-soc5050.github.io/images/logo.png" align="right
 [![Travis-CI Build Status](https://travis-ci.org/slu-soc5050/lecture-06.svg?branch=master)](https://travis-ci.org/slu-soc5050/lecture-06)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/slu-soc5050/lecture-06?branch=master&svg=true)](https://ci.appveyor.com/project/chris-prener/lecture-06)
 
-This is the repository for Lecture 06 of the Saint Louis University course SOC 4015/5050 - Quantitative Analysis. This lecture introduces standard error, confidence internals, and the central limit theorem.
+This is the repository for Lecture 06 of the Saint Louis University course SOC 4015/5050 - Quantitative Analysis. This lecture introduces standard error, confidence intervals, and the central limit theorem.
 
 ### Lecture Objectives
 At the end of this lecture and its corresponding assignments, students should be able to:
 
-1.
+1. Explain the role of the central limit theorem in inferential statistics.
+2. Construct and interpret predictive intervals and confidence intervals.
+3. Compose effective file names.
+4. Describe the use of p-values in inferential statistics.
 
 ### Lecture Resources
 
