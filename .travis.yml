@@ -5,9 +5,17 @@ cache: false
 r:
   - oldrel
   - release
-
+  - devel
+  
 os:
+  - linux
   - osx
 
+matrix:
+  fast_finish: true
+  allow_failures:
+    - r: devel
+      os: osx
+
 script:
-  - Rscript -e "rmarkdown::render('examples/lecture-06.Rmd')"
+  - Rscript -e "rmarkdown::render('assignments/lab-05-replication/docs/lab-05-replication.Rmd')"
