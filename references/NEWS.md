@@ -1,3 +1,7 @@
+# lecture-06 v18.3.0
+
+* Add lab replication files
+
 # lecture-06 v18.2.0
 
 * Initial repo setup:
